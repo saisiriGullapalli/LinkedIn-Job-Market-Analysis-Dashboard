@@ -20,7 +20,10 @@ This project analyzes LinkedIn job postings data to understand market trends, in
 - Pandas
 - Matplotlib (for data visualization)
 
-## 🎯 Objective
+ 📊 Dashboard Preview
+![Dashboard](dashboard.png)
+
+🎯 Objective
 To analyze job market data and extract meaningful insights for career guidance and industry trends.
 
 👩‍💻 Author
